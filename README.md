@@ -1,4 +1,4 @@
-# Animal-Classification
+
 # Animal Classification Project
 
 ## Description
@@ -44,15 +44,17 @@ The models are trained using the `fit` method with early stopping and learning r
 ## Evaluation
 After training, the models are evaluated on a validation set, and performance metrics such as accuracy, loss, confusion matrix, and classification report are generated.
 
+
 ### Training Accuracy and Loss
-![Training Accuracy and Loss](path/to/accuracy_loss_plot.png)
+![image](https://github.com/user-attachments/assets/2bb48c37-b9ee-4da9-b7eb-b29b12f2009f)
 
 ### Confusion Matrix
-![Confusion Matrix](path/to/confusion_matrix.png)
+![Comfusion matrix](https://github.com/user-attachments/assets/a750404d-ed58-4926-98f6-f0fe5d72c3b2)
+
 
 ### Example Predictions
-![Example Prediction 1](path/to/example_prediction_1.png)
-![Example Prediction 2](path/to/example_prediction_2.png)
+![Example Prediction 1](https://github.com/user-attachments/assets/767079f6-cf96-4711-a235-17693c337a6d)
+![Example Prediction 2](https://github.com/user-attachments/assets/de0574a0-398a-4ec4-90e5-7e49a300dbc7)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
