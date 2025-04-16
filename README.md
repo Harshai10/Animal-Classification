@@ -47,6 +47,8 @@ After training, the models are evaluated on a validation set, and performance me
 
 ### Training Accuracy and Loss
 ![image](https://github.com/user-attachments/assets/2bb48c37-b9ee-4da9-b7eb-b29b12f2009f)
+![image](https://github.com/user-attachments/assets/9f772301-4597-4fa2-b99b-6dbafc405e5e)
+
 
 ### Confusion Matrix
 ![Comfusion matrix](https://github.com/user-attachments/assets/a750404d-ed58-4926-98f6-f0fe5d72c3b2)
